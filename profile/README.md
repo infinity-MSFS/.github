@@ -2,6 +2,8 @@
 
 Welcome to Infinity! We offer a powerful downloader and aircraft installer for MSFS freeware, designed to streamline and enhance your flight simulation experience.
 
+___
+
 ## Our Ecosystem
 
 ### For Users
@@ -15,10 +17,21 @@ Welcome to Infinity! We offer a powerful downloader and aircraft installer for M
     4. Publishing releases to GitHub or popular CDNs (e.g., Cloudflare) through customizable Lua scripting.
  
 - **Infinity API**: The **Infinity API** ensures uninterrupted data delivery across our services, enabling seamless updates for aircraft, changelogs, and new groups/projects. It also supports secure closed beta access and includes functionality for submitting bug reports, with the option to collect hardware information for enhanced troubleshooting.
+___
+
+## Our Technology Stack
+
+- **Primary Language**: We primarily use **C++ 23 or C++ 26** for its performance and vast ecosystem.
+- **Networking and REST APIs**: For areas requiring constant networking or REST API functionality, we leverage **Rust** for its safety and concurrency advantages.
+- **Abstract Languages**: For specific tasks that benefit from high-level abstraction, we choose between **TypeScript (TS)**, **Python**, or **Lua** depending on the project's needs.
+
+___
 
 ## Contact
 
 Have questions or need assistance? Join our [Discord](https://discord.gg/GhkQ9wrrbp) and open a ticket. We're here to support you every step of the way.
+
+___
 
 ## Contributing
 
