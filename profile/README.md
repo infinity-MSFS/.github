@@ -1,17 +1,25 @@
-
 # Infinity MSFS
 
-Welcome to Infinity! We provide a feature-rich downloader and aircraft installer for MSFS freeware, designed to enhance your flight simulation experience.
+Welcome to Infinity! We offer a powerful downloader and aircraft installer for MSFS freeware, designed to streamline and enhance your flight simulation experience.
 
-## Key Features
+## Our Ecosystem
 
-- **Blazing Fast Downloads:** Our installer supports lightning-fast download speeds thanks to our comprehensive fragmentation methods, minimizing wait times and getting you into the virtual skies quickly.
-- **SimConnect Integration:** SimConnect functionality is built into the installer out of the box, ensuring seamless compatibility with MSFS and enhancing the overall simulation experience.
+### For Users
+- **Infinity Launcher**: The **Infinity Launcher** is a cross-platform (Windows and Linux-x64) freeware downloader and installer, fully compatible with both `MSFS` and `FS2024`. Lightweight, secure, and visually appealing, the launcher delivers a seamless experience tailored to the needs of flight simulation enthusiasts.
+
+### For Developers
+- **Infinity Package Builder**: The **Infinity Package Builder** is a versatile cross-platform (Windows and Linux-x64) utility designed to empower developers with a suite of advanced tools, including:
+    1. Managing and updating product pages directly on the **Infinity Launcher**.
+    2. Building SDK packages independent of the simulator.
+    3. Generating ultra-efficient diffs for fragmented downloads.
+    4. Publishing releases to GitHub or popular CDNs (e.g., Cloudflare) through customizable Lua scripting.
+ 
+- **Infinity API**: The **Infinity API** ensures uninterrupted data delivery across our services, enabling seamless updates for aircraft, changelogs, and new groups/projects. It also supports secure closed beta access and includes functionality for submitting bug reports, with the option to collect hardware information for enhanced troubleshooting.
 
 ## Contact
 
-Have questions or need support? Join our [discord](https://discord.gg/GhkQ9wrrbp) and open a ticket. We're here to help!
+Have questions or need assistance? Join our [Discord](https://discord.gg/GhkQ9wrrbp) and open a ticket. We're here to support you every step of the way.
 
 ## Contributing
 
-Thank you for your interest in contributing to Infinity! As our project is closed-source, we ask contributors to contact a maintainer directly with their interest in contributing. Please Join our [discord](https://discord.gg/GhkQ9wrrbp) and open a ticket with details about your proposed contribution. We value your input and look forward to collaborating with you!
+Thank you for your interest in contributing to Infinity! Since our project is closed-source, we ask potential contributors to contact a maintainer directly. Join our [Discord](https://discord.gg/GhkQ9wrrbp) and open a ticket detailing your proposed contribution. We’re excited to hear your ideas and collaborate with you!
